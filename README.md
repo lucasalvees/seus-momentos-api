@@ -2,7 +2,7 @@
 ## Como rodar a aplicação
 No terminal, clone o projeto:
 ```
-git clone 
+git clone https://github.com/lucasalvees/seus-momentos-api.git
 ```
 Instale as dependências:
 ```
@@ -28,3 +28,6 @@ Execute a aplicação:
 ```
 node ace serve 
 ```
+##
+Link para o repositório do Seus Momentos:
+ [Seus Momentos](https://github.com/lucasalvees/seus-momentos)
